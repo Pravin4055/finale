@@ -9,7 +9,7 @@ pipeline {
             }
         }
 
-        stage('Build') {
+        stage('Buildng') {
             steps {
                 echo 'Building...'
                 // Add your build commands here (e.g., compiling code, running tests)
