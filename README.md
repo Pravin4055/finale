@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Jenkins Pipeline Project
 
 This project demonstrates how to set up a Jenkins pipeline that triggers automatically when changes are pushed to this repository.
@@ -13,3 +14,6 @@ This project demonstrates how to set up a Jenkins pipeline that triggers automat
 - Add this repository URL to Jenkins.
 - Configure a webhook using ngrok to connect Jenkins to Git.
 
+=======
+# finale
+>>>>>>> 1041b88cb624195cee4473c4efc862f2b291db24
