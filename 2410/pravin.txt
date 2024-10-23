@@ -1,0 +1,17 @@
+pipeline {
+    agent any
+
+    stages {
+        stage('Checkout') {
+            steps {
+                git 'https://github.com/Pravin4055/finale.git'
+            }
+        }
+        stage('Build') {
+            steps {
+                echo 'Hello, World!'
+            }
+        }
+    }
+}
+
